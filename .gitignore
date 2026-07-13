@@ -1,0 +1,16 @@
+# Rojo / Roblox build artifacts
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+*.rbxm
+*.rbxmx
+
+# Dependency managers
+/Packages
+/ServerPackages
+/DevPackages
+
+# Editor / OS
+.DS_Store
+.vscode/
